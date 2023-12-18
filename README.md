@@ -10,6 +10,8 @@ Instructions for installing the script onto Google Apps Script dashboard.
 
 
 2. On the starting page, create a new project
+
+
 ![Alt text](image.png)
 
 3. Name the Google Apps Script project. In this example, we will name it `CalendarListener-2`. Click the **Rename** button after you've added the desired name. 
@@ -20,7 +22,7 @@ Instructions for installing the script onto Google Apps Script dashboard.
 
 ![Alt text](image-2.png)
 
-5. Click the "save" button to save the project
+5.  Click the "save" button to save the project
 
 ![Alt text](image-3.png)
 
@@ -89,7 +91,7 @@ Instructions for installing the script onto Google Apps Script dashboard.
 
 ![Alt text](image-19.png)
 
-22. We notice that the script completed with error: 
+22. We notice that the script completed without error: 
 
 ![Alt text](image-20.png)
 
