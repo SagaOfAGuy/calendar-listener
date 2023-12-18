@@ -1,7 +1,7 @@
 # Google-Calendar-Listener
 Google Apps Script that detects changes to a given group of Google calendars, and sends an email to the user that created that event. 
 
-Could serve as a start script for other more large scale projects
+Could serve as a starter script for other more large scale projects
 
 ## Installation Tutorial
 Instructions for installing the script onto Google Apps Script dashboard. 
