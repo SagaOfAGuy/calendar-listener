@@ -26,7 +26,7 @@ Instructions for installing the script onto Google Apps Script dashboard.
 
 ![Alt text](images/image-3.png)
 
-6. In the project, scroll down to line 6 of the project. Customize the parameter inside of the `getCalendarWithPrefix` function. In our case, we are targeting calendars that start the prefix `Test`. 
+6. In the project, scroll down to line 6 of the project. Customize the parameter inside of the `getCalendarWithPrefix` function. In our case, we are targeting calendars that start with the prefix `Test`. 
 
 ![Alt text](images/image-4.png)
 
